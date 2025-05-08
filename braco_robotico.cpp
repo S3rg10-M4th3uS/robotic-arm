@@ -234,13 +234,13 @@ void inicializarRobo() {
   punho.cor[1] = 0.6;
   punho.cor[2] = 0.6;
 
-  // Garra (agora em tons de branco)
+  // Garra
   garra.abertura = 30.0;
   garra.comprimento = 1.0;
   garra.largura = 0.2;
   garra.cor[0] = 0.8;
   garra.cor[1] = 0.8;
-  garra.cor[2] = 0.8; // Branco com leve tom acinzentado
+  garra.cor[2] = 0.8;
 }
 
 // Funções de manipulação da interface
