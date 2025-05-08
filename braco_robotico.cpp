@@ -1,6 +1,7 @@
 /**
  * Simulador de Braço Robótico em OpenGL
- * g++ roboarm2.cpp -o roboarm2 -lGL -lGLU -lglut
+ * g++ braco_robotico.cpp -o braco_robotico -lGL -lGLU -lglut  (LINUX)
+ * g++ -o braco_robotico.exe braco_robotico.cpp -I./include -L./lib/x64 -lfreeglut -lopengl32 -lglu32 (WINDOWS)
  */
 
 #include <GL/glut.h>
