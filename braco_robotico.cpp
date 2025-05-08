@@ -1,5 +1,6 @@
 /**
  * Simulador de Braço Robótico em OpenGL
+ * Dupla: Sérgio Matheus Araujo Silva e Brisa Tielly Almeida da Silva
  * g++ braco_robotico.cpp -o braco_robotico -lGL -lGLU -lglut  (LINUX)
  * g++ -o braco_robotico.exe braco_robotico.cpp -I./include -L./lib/x64 -lfreeglut -lopengl32 -lglu32 (WINDOWS)
  */
